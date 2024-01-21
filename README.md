@@ -17,5 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=einmelih&show_icons=true&locale=en" alt="einmelih" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=einmelih&" alt="einmelih" /></p>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/einmelih/einmelih/output/github-contribution-grid-snake-dark.svg)
